@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.9c70441e.css",
-    "main.js": "/your-repo-name/static/js/main.e8baf10c.js",
-    "static/js/453.465a6f87.chunk.js": "/your-repo-name/static/js/453.465a6f87.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.9c70441e.css.map": "/your-repo-name/static/css/main.9c70441e.css.map",
-    "main.e8baf10c.js.map": "/your-repo-name/static/js/main.e8baf10c.js.map",
-    "453.465a6f87.chunk.js.map": "/your-repo-name/static/js/453.465a6f87.chunk.js.map"
+    "main.css": "/imagegame/static/css/main.9c70441e.css",
+    "main.js": "/imagegame/static/js/main.d7497f92.js",
+    "static/js/453.465a6f87.chunk.js": "/imagegame/static/js/453.465a6f87.chunk.js",
+    "index.html": "/imagegame/index.html",
+    "main.9c70441e.css.map": "/imagegame/static/css/main.9c70441e.css.map",
+    "main.d7497f92.js.map": "/imagegame/static/js/main.d7497f92.js.map",
+    "453.465a6f87.chunk.js.map": "/imagegame/static/js/453.465a6f87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c70441e.css",
-    "static/js/main.e8baf10c.js"
+    "static/js/main.d7497f92.js"
   ]
 }
