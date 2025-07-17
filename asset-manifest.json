@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/imagegame/static/css/main.9c70441e.css",
-    "main.js": "/imagegame/static/js/main.d7497f92.js",
-    "static/js/453.465a6f87.chunk.js": "/imagegame/static/js/453.465a6f87.chunk.js",
-    "index.html": "/imagegame/index.html",
-    "main.9c70441e.css.map": "/imagegame/static/css/main.9c70441e.css.map",
-    "main.d7497f92.js.map": "/imagegame/static/js/main.d7497f92.js.map",
-    "453.465a6f87.chunk.js.map": "/imagegame/static/js/453.465a6f87.chunk.js.map"
+    "main.css": "/Matchgame/static/css/main.9c70441e.css",
+    "main.js": "/Matchgame/static/js/main.4c8be2df.js",
+    "static/js/453.465a6f87.chunk.js": "/Matchgame/static/js/453.465a6f87.chunk.js",
+    "index.html": "/Matchgame/index.html",
+    "main.9c70441e.css.map": "/Matchgame/static/css/main.9c70441e.css.map",
+    "main.4c8be2df.js.map": "/Matchgame/static/js/main.4c8be2df.js.map",
+    "453.465a6f87.chunk.js.map": "/Matchgame/static/js/453.465a6f87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c70441e.css",
-    "static/js/main.d7497f92.js"
+    "static/js/main.4c8be2df.js"
   ]
 }
