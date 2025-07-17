@@ -1,7 +1,7 @@
 {
   "name": "imagegame",
   "version": "0.1.0",
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://saitejak55.github.io/Matchgame",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
